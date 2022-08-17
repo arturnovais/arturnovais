@@ -1,4 +1,3 @@
-### Olá, Sou Artur Matos, seja bem vindo!!!
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/arturnovais/9972e0bf860ad9278b55ee257b0a00ce/raw/e902d4499cf02bc294d04f667902f70e657f0c15/githubcard.svg"/>
 
